@@ -813,4 +813,26 @@ docker build -t kruhale/springboot .
 ## Para subirla a docker hub:
 docker push kruhale/springboot
 
-## 
+## Github action
+https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b36e5f48953d083d2bce5cdddf/.github/workflows/docker-image.yml#L1-L47
+
+### Este github action se divide en varias partes:
+El chequeo del repositorio:
+https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b36e5f48953d083d2bce5cdddf/.github/workflows/docker-image.yml#L17-L18
+
+
+### El login en docker hub:
+https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b36e5f48953d083d2bce5cdddf/.github/workflows/docker-image.yml#L20-L24
+
+### La extracción de datos 
+https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b36e5f48953d083d2bce5cdddf/.github/workflows/docker-image.yml#L26-L30
+
+### La construcción y subida de la imágen:
+https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b36e5f48953d083d2bce5cdddf/.github/workflows/docker-image.yml#L32-L40
+
+
+### Generación de artefacto:
+https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b36e5f48953d083d2bce5cdddf/.github/workflows/docker-image.yml#L42-L47
+
+# Enlace a la imágen del docker hub:
+https://hub.docker.com/r/kruhale/springboot
