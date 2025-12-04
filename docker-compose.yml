@@ -21,7 +21,7 @@ services:
     environment:
       - APP_DATA_DIR=/app/data
       - APP_DATA_FILE=/app/data/users.json
-    
+
     # Volúmenes para persistencia de datos
     volumes:
       - ./data:/app/data
