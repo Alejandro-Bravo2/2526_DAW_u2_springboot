@@ -836,3 +836,11 @@ https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b3
 
 # Enlace a la imágen del docker hub:
 https://hub.docker.com/r/kruhale/springboot
+
+
+# Capturas:
+![img.png](img.png)
+
+
+![img_1.png](img_1.png)
+
