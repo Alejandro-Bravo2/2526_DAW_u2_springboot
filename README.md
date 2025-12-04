@@ -799,3 +799,15 @@ Desarrollado para el módulo de **Despliegue de Aplicaciones Web**.
 ---
 
 **¡Feliz aprendizaje! 🚀**
+
+
+
+# Actividad
+
+## Para construir la imágen:
+docker build -t kruhale/springboot .
+
+## Para subirla a docker hub:
+docker push kruhale/springboot
+
+## 
