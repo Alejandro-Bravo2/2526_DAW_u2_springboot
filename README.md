@@ -837,6 +837,7 @@ https://github.com/Alejandro-Bravo2/2526_DAW_u2_springboot/blob/98f2de00dabfc6b3
 # Enlace a la imágen del docker hub:
 https://hub.docker.com/r/kruhale/springboot
 
+# He tenido que crear 2 secret keys en el github que eso sirve para que el action funcione cuando hagas push. SIN ESO NO FUNCIONAA
 
 # Capturas:
 ![img.png](img.png)
