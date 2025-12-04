@@ -13,6 +13,8 @@ Aplicación web educativa que demuestra cómo desarrollar y desplegar una aplica
 - [API REST](#api-rest)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 
+
+
 ## ✨ Características
 
 - ✅ CRUD completo de usuarios (Crear, Leer, Actualizar, Eliminar)
